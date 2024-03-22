@@ -1,2 +1,5 @@
-# rofi-translator
-Translate via rofi
+# Rofi Translator Script
+
+### Installation
+
+``` git clone 
